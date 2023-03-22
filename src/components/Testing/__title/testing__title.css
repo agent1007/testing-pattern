@@ -1,0 +1,22 @@
+.testing__title {
+    width: 60%;
+    text-align: center;
+    line-height: 1.15;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 767px) {    
+    .testing__title {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 320px) {    
+    .testing__title {
+        font-size: 20px;
+    }
+}

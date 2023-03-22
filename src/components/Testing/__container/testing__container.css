@@ -1,0 +1,10 @@
+.testing__container {
+    margin: auto;
+    width: 50%;
+}
+
+@media screen and (max-width: 767px) {    
+    .testing__container {
+        width: 65%; 
+    }
+}

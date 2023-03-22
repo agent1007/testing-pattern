@@ -1,0 +1,33 @@
+/* @import url(./vendor/normalize.css);
+@import url(./vendor/fonts/inter.css);
+@import url(./components/Body/body.css);
+@import url(./components/page/page.css); */
+
+
+@import url(./components/Testing/testing.css);
+@import url(./components/Testing/__container-variants/testing__container-variants.css);
+@import url(./components/Testing/__container/testing__container.css);
+@import url(./components/Testing/__question/testing__question.css);
+@import url(./components/Testing/__submit-button/testing__submit-button.css);
+@import url(./components/Testing/__title/testing__title.css);
+@import url(./components/Testing/__resultat/testing__resultat.css);
+@import url(./components/Testing/__number-question/_block/testing__number-question_block.css);
+@import url(./components/Testing/__number-question/testing__number-question.css);
+@import url(./components/Testing/__buttons/testing__buttons.css);
+
+@import url(./components/Variant/__button/variant__button.css);
+@import url(./components/Variant/__text/variant__text.css);
+@import url(./components/Variant/variant.css);
+
+@import url(./components/ButtonsTest/buttons-test.css);
+@import url(./components/ButtonsTest/_block/buttons-test_block.css);
+@import url(./components/ButtonsTest/_width/buttons-test_width.css);
+@import url(./components/ButtonsTest/_margin-top/buttons-test_margin-top.css);
+@import url(./components/ButtonsTest/_height/buttons-test_height.css);
+
+@import url(./components/Navigation/__container/navigation__container.css);
+@import url(./components/Navigation/__title/navigation__title.css);
+@import url(./components/Navigation/navigation.css);
+@import url(./components/Navigation/__title/_margin/navigation__title_margin.css);
+@import url(./components/Navigation/__container/_title/navigation__container_title.css);
+@import url(./components/Navigation/__text/navigation__text.css);

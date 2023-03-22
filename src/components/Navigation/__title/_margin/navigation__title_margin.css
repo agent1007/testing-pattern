@@ -1,0 +1,11 @@
+.navigation__title_margin {
+    margin: auto 20px;
+}
+
+@media screen and (max-width: 767px) {    
+    .navigation__title_margin {
+        margin: auto 10px;
+        font-size: 12px;
+        line-height: 15px;
+    }
+}

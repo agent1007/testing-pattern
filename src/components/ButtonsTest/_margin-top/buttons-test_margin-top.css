@@ -1,0 +1,10 @@
+.buttons-test_margin-top {
+    margin-top: 50px;
+}
+
+@media screen and (max-width: 767px) {    
+    .buttons-test_margin-top {
+        width: 190px;
+        
+    }
+}

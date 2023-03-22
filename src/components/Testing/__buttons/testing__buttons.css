@@ -1,0 +1,11 @@
+.testing__buttons {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+@media screen and (max-width: 767px) {    
+    .testing__buttons {
+        width: 65%; 
+    }
+}

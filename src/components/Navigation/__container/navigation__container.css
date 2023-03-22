@@ -1,0 +1,28 @@
+.navigation__container {
+    margin-left: 85px;
+    display: grid;
+    grid-template-columns: repeat(5, max-content);
+    column-gap: 20px;
+    justify-content: start; 
+}
+
+
+@media screen and (max-width: 767px) {    
+    .navigation__container {
+        margin-left: 45px;
+    }
+}
+
+@media screen and (max-width: 530px) {    
+    .navigation__container {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 410px) {    
+    .navigation__container {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+}
